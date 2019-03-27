@@ -1,0 +1,45 @@
+
+input{
+      border: 0;
+}
+#btn {
+    height: 50px;
+    width: 50px;
+}
+    
+.silver{
+  background-color: silver;
+  color: black;
+  height: 50px;
+  width: 50px
+}
+    
+#clear {
+     border: none;
+    color:white
+}
+#equals{
+      border: none;
+}
+.calBG {
+      width: 280px;
+      background-color: #1d1b1b;
+      border-radius: 0px;
+      padding: 20px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      
+      margin: 25vh auto;
+    }
+    .display {
+      height: 40px;
+      border-radius: 0px;
+      background-color: #1d1b1b;
+      color: white;
+      padding: 10px;
+      margin: 10px 2px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+   
+    
